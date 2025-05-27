@@ -110,10 +110,10 @@ If you find this library useful, please consider starring it to show your suppor
 If you use **TorchCriterion** in your research or project, please consider citing it:
 
 ```bibtex
-@misc{torchcriterion2024,
+@misc{torchcriterion2025,
   author       = {P. Yadla},
   title        = {TorchCriterion: Advanced Loss Functions for PyTorch},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/TransformerTitan/torchcriterion}},
   note         = {GitHub repository},
