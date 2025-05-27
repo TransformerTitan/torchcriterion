@@ -16,7 +16,7 @@
 ## 📦 Installation
 
 ```bash
-pip install torchcriterion  # Coming soon to PyPI
+pip install torchcriterion
 ```
 
 ---
