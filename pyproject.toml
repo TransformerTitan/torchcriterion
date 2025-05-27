@@ -12,4 +12,4 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 requires-python = ">=3.7"
-dependencies = ["torch>=3.0"]
+dependencies = ["torch>=2.0"]
