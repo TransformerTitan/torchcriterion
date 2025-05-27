@@ -88,7 +88,7 @@ Pull requests, ideas, and issues are welcome! Feel free to open a PR or start a 
 
 ## 👤 Author
 
-Developed by [Your Name] — [@yourhandle](https://github.com/yourhandle)
+Developed by TransformerTitan — [@TransformerTitan](https://github.com/TransformerTitan)
 
 ---
 
