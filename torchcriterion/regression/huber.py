@@ -1,5 +1,6 @@
 import torch.nn as nn
 
+
 class HuberLoss(nn.Module):
     def __init__(self, delta=1.0):
         super().__init__()
