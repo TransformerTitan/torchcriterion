@@ -111,7 +111,6 @@ If you use **TorchCriterion** in your research or project, please consider citin
 
 ```bibtex
 @misc{torchcriterion2025,
-  author       = {P. Yadla},
   title        = {TorchCriterion: Advanced Loss Functions for PyTorch},
   year         = {2025},
   publisher    = {GitHub},
